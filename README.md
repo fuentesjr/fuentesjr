@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- :bowtie:I go by Sal
-- 💎 I'm a Ruby on Rails developer
+- :bowtie: I go by Sal
+- 💎 I'm a Ruby (and Rails) developer
 - 👷 I'm interested in infrastructure and security
 - 🥋 I'm a fan of the Art of Jiu Jitsu
 

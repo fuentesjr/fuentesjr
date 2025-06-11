@@ -19,6 +19,7 @@ Hi 👋, I'm Sal :bowtie:. I'm a senior software engineer at GitHub working on t
 
 ## Get in touch
 - :mailbox_with_mail: Mail: fuentesjr@duck.com
+- 🔗 LinkedIn: https://linkedin.com/in/fuentesjr
 
 
 <!--

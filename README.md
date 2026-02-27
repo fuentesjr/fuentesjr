@@ -1,5 +1,5 @@
 # Sal Fuentes
-Hi 👋, I'm Sal :bowtie:. I'm a senior software engineer at GitHub working on the Billing Engineering team. I'm also a part-time stock picker 📈 and jiu jitsu hobbyist🥋.
+Hi 👋, I'm Sal :bowtie:. I'm a senior software engineer. I'm also a part-time stock picker 📈 and jiu jitsu hobbyist🥋.
 
 ## :sparkles: My values
 - 🌱 Growth mindset, every challenge is an opportunity<br>

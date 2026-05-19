@@ -24,7 +24,7 @@ I'm also a part-time stock picker [📈](https://arxiv.org/abs/1804.08730) and j
 - 🔗 linkedin.com/in/fuentesjr
 
 ---
-<!-- INCIDENT_START -->*⏱️ days since last production incident: **0***<!-- INCIDENT_END -->
+<!-- INCIDENT_START -->*⏱️ days since last production incident: **2***<!-- INCIDENT_END -->
 
 <!-- You are in a maze of twisty little passages, all alike. -->
 

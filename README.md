@@ -12,7 +12,7 @@ I'm also a part-time stock picker [📈](https://arxiv.org/abs/1804.08730) and j
 ## 🔭 Right now
 - Building in Go and deepening my understanding of distributed systems beyond the Rails world
 - Integrating agentic engineering workflows into daily practice — Claude Code, OpenAI Codex, and the patterns that actually hold up in production
-- Building my own AI infrastructure stack around <abbr title="messenger of the gods">Hermes Agent</abbr> — a personal agent, an llm wiki and knowledge-base, and a thought capture system I'm actively building · <!-- HERMES_START -->🔄 thinking...<!-- HERMES_END -->
+- Building my own AI infrastructure stack around <abbr title="messenger of the gods">Hermes Agent</abbr> — a personal agent, an llm wiki and knowledge-base, and a thought capture system I'm actively building · <!-- HERMES_START -->🟢 online<!-- HERMES_END -->
 
 ## ⚡ Fun facts
 - Margaret Hamilton coined the term "software engineering" while working on the Apollo guidance computer. NASA thought the phrase sounded too grand for what she was doing. The Moon landing proved her right.

@@ -1,30 +1,36 @@
 # Sal Fuentes
-I've spent 15+ years building backend systems in Ruby on Rails — the kind of work that lives in the billing layer, the data pipeline, the places where reliability actually matters. At GitHub I helped ship Copilot's billing infrastructure. These days I'm expanding into Go and exploring what serious agentic engineering looks like in practice — while staying deeply invested in Rails and the companies that build with it.
 
-I'm also a part-time stock picker [📈](https://arxiv.org/abs/1804.08730) and jiu jitsu hobbyist 🥋.
+I'm a senior backend engineer with 15+ years building production Ruby on Rails systems — especially billing, data pipelines, and reliability-sensitive product infrastructure. At GitHub, I helped ship billing infrastructure for Copilot. I'm Rails-first, pragmatic about Go where it fits, and currently exploring how agentic engineering workflows can improve real production software development.
 
-## ✨ My values
-- 🌱 Every hard problem is just an opportunity in disguise
+## What I bring
+
+- 15+ years of Ruby on Rails backend experience
+- Billing, payments, data pipelines, and operationally critical systems
+- Experience shipping product infrastructure at GitHub scale
+- Pragmatic engineering judgment: simple systems, clear ownership, reliable delivery
+- Growing Go and distributed systems experience that complements my Rails background
+
+## 🔭 Right now
+
+- Deepening my Go and distributed systems experience to complement my Rails work
+- Integrating AI coding agents into disciplined, testable, production-quality engineering workflows
+- Building <abbr title="messenger of the gods">Hermes Agent</abbr> — a personal agent, LLM wiki/knowledge base, and thought-capture system I'm actively building · <!-- HERMES_START -->🟢 online<!-- HERMES_END -->
+
+## ✨ Values
+
+- 🌱 Every hard problem is an opportunity in disguise
 - 💖 Trust is the foundation — teams work when people feel safe
 - 🍄 Collaboration is the ultimate multiplier
 - 🙌 Self expression matters — that's why I love emojis
 
-## 🔭 Right now
-- Building in Go and deepening my understanding of distributed systems beyond the Rails world
-- Integrating agentic engineering workflows into daily practice — Claude Code, OpenAI Codex, and the patterns that actually hold up in production
-- Building my own AI infrastructure stack around <abbr title="messenger of the gods">Hermes Agent</abbr> — a personal agent, an llm wiki and knowledge-base, and a thought capture system I'm actively building · <!-- HERMES_START -->🟢 online<!-- HERMES_END -->
+## Outside of work
 
-## ⚡ Fun facts
-- Margaret Hamilton coined the term "software engineering" while working on the Apollo guidance computer. NASA thought the phrase sounded too grand for what she was doing. The Moon landing proved her right.
-
-- Dennis Ritchie created C and co-invented Unix. He died one week after Steve Jobs. The world barely noticed.
+I train jiu jitsu 🥋 and study markets [📈](https://arxiv.org/abs/1804.08730).
 
 ## Get in touch
+
 - 📫 fuentesjr@duck.com
 - 🔗 linkedin.com/in/fuentesjr
-
----
-<!-- INCIDENT_START -->*⏱️ days since last production incident: **10***<!-- INCIDENT_END -->
 
 <!-- You are in a maze of twisty little passages, all alike. -->
 

@@ -1,18 +1,16 @@
 # Sal Fuentes
 
-I'm a senior backend engineer with 15+ years building production Ruby on Rails systems — especially billing, payments, data pipelines, and reliability-sensitive product infrastructure. At GitHub, I helped ship billing infrastructure for Copilot. I'm Rails-first, pragmatic about Go where it fits, and currently exploring how agentic engineering workflows can improve real production software development.
+I'm a senior backend engineer with 15+ years building production Ruby on Rails systems — especially billing, payments, and data pipelines, where being silently wrong gets expensive. At GitHub, I helped ship billing infrastructure for Copilot. I'm Rails-first, pragmatic about Go where it fits, and currently exploring how agentic engineering workflows can improve real production software development.
 
 ## 🔭 Right now
 
 - Deepening my Go and distributed systems experience to complement my Rails work
-- Integrating AI coding agents into disciplined, testable, production-quality engineering workflows
-- Building <abbr title="messenger of the gods">Hermes Agent</abbr>: a personal agent, LLM wiki/knowledge base, and thought-capture system I'm actively building · <!-- HERMES_START -->🟢 online<!-- HERMES_END -->
+- Testing AI coding agents against real production workflows and keeping notes on what holds up
+- Building <abbr title="messenger of the gods">Hermes Agent</abbr>, a personal agent and knowledge base · <!-- HERMES_START -->🟢 online<!-- HERMES_END -->
 
 ## ✨ Values
 
-- 🌱 Every hard problem is an opportunity in disguise
 - 💖 Trust is the foundation: teams work when people feel safe
-- 🍄 Collaboration is the ultimate multiplier
 - 🙌 Self expression matters — that's why I love emojis
 
 ## Outside of work

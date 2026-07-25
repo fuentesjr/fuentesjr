@@ -6,7 +6,7 @@ I'm a senior backend engineer with 15+ years building production Ruby on Rails s
 
 - Deepening my Go and distributed systems experience to complement my Rails work
 - Testing AI coding agents against real production workflows and keeping notes on what holds up
-- Building <abbr title="messenger of the gods">Hermes Agent</abbr>, a personal agent and knowledge base · <!-- HERMES_START -->🟢 online<!-- HERMES_END -->
+- Building <abbr title="messenger of the gods">Hermes Agent</abbr>, a personal agent and knowledge base · <!-- HERMES_START -->💤 dreaming...<!-- HERMES_END -->
 
 ## ✨ Values
 

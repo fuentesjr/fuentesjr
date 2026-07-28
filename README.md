@@ -6,7 +6,7 @@ I'm a senior backend engineer with 15+ years building production Ruby on Rails s
 
 - Deepening my Go and distributed systems experience to complement my Rails work
 - Testing AI coding agents against real production workflows and keeping notes on what holds up
-- Building <abbr title="messenger of the gods">Hermes Agent</abbr>, a personal agent and knowledge base · <!-- HERMES_START -->🔄 thinking...<!-- HERMES_END -->
+- Exploring AI product evals: measuring usefulness, reliability, and failure modes
 
 ## ✨ Values
 
@@ -19,8 +19,8 @@ I train jiu jitsu 🥋 and study markets [📈](https://arxiv.org/abs/1804.08730
 
 ## Get in touch
 
-- 📫 fuentesjr@duck.com
-- 🔗 linkedin.com/in/fuentesjr
+- 📫 <fuentesjr@duck.com>
+- 🔗 [linkedin.com/in/fuentesjr](https://www.linkedin.com/in/fuentesjr)
 
 <!-- You are in a maze of twisty little passages, all alike. -->
 

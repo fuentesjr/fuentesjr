@@ -1,39 +1,13 @@
-name: Update Hermes status
+name: Hermes status updates disabled
 
 on:
-  schedule:
-    - cron: '0 */3 * * *'
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
-  update:
+  disabled:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Determine status
-        id: status
-        run: |
-          HOUR=$(date -u +%H)
-          if [ "$HOUR" -ge 14 ] || [ "$HOUR" -lt 2 ]; then
-            echo "status=🟢 online" >> $GITHUB_OUTPUT
-          elif [ "$HOUR" -ge 2 ] && [ "$HOUR" -lt 8 ]; then
-            echo "status=💤 dreaming..." >> $GITHUB_OUTPUT
-          else
-            echo "status=🔄 thinking..." >> $GITHUB_OUTPUT
-          fi
-
-      - name: Update README
-        run: |
-          sed -i "s|<!-- HERMES_START -->.*<!-- HERMES_END -->|<!-- HERMES_START -->${{ steps.status.outputs.status }}<!-- HERMES_END -->|" README.md
-
-      - name: Commit
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git diff --staged --quiet || git commit -m "chore: update hermes status"
-          git push
+      - run: echo "This workflow no longer updates README.md."

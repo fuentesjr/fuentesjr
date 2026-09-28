@@ -2,7 +2,7 @@
 
 I build Rails systems and take responsibility for what they do in production. At GitHub I helped ship the billing infrastructure behind Copilot subscriptions. Most of my opinions below come from cleaning up after quiet bugs.
 
-Lately I've been building tools for AI coding agents working in Rails codebases. The pinned repos share one position: agents are useful when fed deterministic, inspectable inputs, and dangerous when fed vibes.
+Lately I've been building tools for AI coding agents working in Rails codebases.
 
 ## 🔭 Right now
 

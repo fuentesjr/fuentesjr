@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="1200" height="280" role="img" aria-labelledby="t d">
+  <title id="t">Sal Fuentes</title>
+  <desc id="d">Senior software engineer who builds with AI coding agents. A terminal shows planner, coding-worker, and reviewer agents finishing a task, ready for his review.</desc>
+  <rect x="0.5" y="0.5" width="1199" height="279" rx="14" fill="#f4f6f8" stroke="#d8dee4"/>
+  <text x="56" y="120" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Helvetica Neue&quot;, Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="-1.5" fill="#1f2328">Sal Fuentes</text>
+  <text x="58" y="166" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Helvetica Neue&quot;, Arial, sans-serif" font-size="24" font-weight="500" fill="#1f2328">Senior software engineer</text>
+  <text x="58" y="210" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, &quot;Liberation Mono&quot;, monospace" font-size="16" fill="#59636e">15 yrs production backend · web appsec</text>
+  <rect x="604" y="36" width="540" height="208" rx="10" fill="#1f2328"/>
+  <text x="628" y="66" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, &quot;Liberation Mono&quot;, monospace" font-size="13" fill="#9198a1">~/work/orders-api</text>
+  <text x="628" y="102" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, &quot;Liberation Mono&quot;, monospace" font-size="16" fill="#e6edf3"><tspan fill="#f0727a">❯</tspan> /autobots add rate limiting to the API</text>
+  <text x="640" y="138" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, &quot;Liberation Mono&quot;, monospace" font-size="16" fill="#9198a1">planner</text>
+  <text x="790" y="138" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, &quot;Liberation Mono&quot;, monospace" font-size="16" fill="#e6edf3">plan + spec tests</text>
+  <text x="1104" y="138" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, &quot;Liberation Mono&quot;, monospace" font-size="16" fill="#4cc2ac">done</text>
+  <text x="640" y="168" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, &quot;Liberation Mono&quot;, monospace" font-size="16" fill="#9198a1">coding-worker</text>
+  <text x="790" y="168" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, &quot;Liberation Mono&quot;, monospace" font-size="16" fill="#e6edf3">implementation</text>
+  <text x="1104" y="168" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, &quot;Liberation Mono&quot;, monospace" font-size="16" fill="#4cc2ac">done</text>
+  <text x="640" y="198" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, &quot;Liberation Mono&quot;, monospace" font-size="16" fill="#9198a1">reviewer</text>
+  <text x="790" y="198" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, &quot;Liberation Mono&quot;, monospace" font-size="16" fill="#e6edf3">security + design review</text>
+  <text x="1104" y="198" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, &quot;Liberation Mono&quot;, monospace" font-size="16" fill="#4cc2ac">done</text>
+  <text x="628" y="228" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, &quot;Liberation Mono&quot;, monospace" font-size="16" fill="#e6edf3"><tspan fill="#f0727a">❯</tspan> ready for my review</text>
+</svg>

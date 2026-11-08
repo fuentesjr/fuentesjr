@@ -1,14 +1,40 @@
-# Sal Fuentes
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="imgs/banner-dark.svg">
+  <img alt="Sal Fuentes, senior software engineer who builds with AI coding agents" src="imgs/banner-light.svg">
+</picture>
 
-I build Rails systems and take responsibility for what they do in production. At GitHub I helped ship the billing infrastructure behind Copilot subscriptions. Most of my opinions below come from cleaning up after quiet bugs.
+I'm a senior software engineer who builds with AI coding agents every day. I think they're the biggest change in software engineering, and I'm all in on guiding these agents to build ambitious software.
 
-Lately I've been building tools for AI coding agents working in Rails codebases.
+My depth is 15 years of production backend work, mostly Ruby on Rails. At GitHub I helped ship the billing infrastructure behind Copilot subscriptions. That experience is what I bring to agent work: I know what a production system needs, so I can move fast in whatever language the problem calls for and still ship things that hold up.
 
 ## 🔭 Right now
 
-- Building static-analysis and context tooling so agents get facts about a Rails codebase instead of guesses
-- Testing AI coding agents against real production workflows and keeping notes on what holds up
-- Deepening my Go and distributed systems experience to complement my Rails work
+- Building tools that give coding agents facts about a codebase instead of guesses
+- Going deep on web application security. As agents write more of the code, I want to be the engineer who can tell when it's exploitable.
+
+## 🛠️ What I'm building
+
+**Agent workflows**
+
+| Project | What it does | Built in |
+|---|---|---|
+| [autobots](https://github.com/fuentesjr/autobots) · [agenticons](https://github.com/fuentesjr/agenticons) | Named subagent rosters for Claude Code and Codex, each role pinned to a model tier | TypeScript, Go |
+| [grok-plugin-cc](https://github.com/fuentesjr/grok-plugin-cc) | Claude Code plugin that hands investigation, fixes, and review to Grok Build | JavaScript |
+
+**Codebase understanding**
+
+| Project | What it does | Built in |
+|---|---|---|
+| [c4lens](https://github.com/fuentesjr/c4lens) | Desktop app and CLI for navigating C4 architecture models stored in a repo | Rust, React |
+| [git-recon](https://github.com/fuentesjr/git-recon) | History-first codebase investigation for humans and agents | Shell |
+| [metz-scan](https://github.com/fuentesjr/metz-scan) | Finds Sandi Metz-style design pressure in Ruby and Rails code | Ruby |
+
+**Web AppSec**
+
+| Project | What it does | Built in |
+|---|---|---|
+| [rails-audit](https://github.com/fuentesjr/rails-audit) | Rails static analysis: pinned brakeman, rubocop, and reek, ranked by impact | Ruby |
+| [bobby-tables](https://github.com/fuentesjr/bobby-tables) | Interactive guide to SQL injection and parameterized queries ([live](https://fuentesjr.github.io/bobby-tables/)) | HTML, JS |
 
 ## 🧠 How I work
 
@@ -16,7 +42,7 @@ Lately I've been building tools for AI coding agents working in Rails codebases.
 - 🔁 **Find the loop, not the event.** Recurring problems have a structure producing them. I fix the structure.
 - ⏱️ **Tight feedback loops beat capacity.** Anything I automate has to say how we'll know it's working, and how fast.
 - ✂️ **Less code by default.** Abstraction has to earn its place with about three real uses first.
-- 🧑‍⚖️ **Agents write code, I design the system.** They get the decision-free work. Architecture, schemas, and dependencies stay with me.
+- 🧑‍✈️ **I guide the agents and own the design.** Agents do the implementation at speed. Architecture, schemas, and dependencies stay with me.
 
 ## ✨ Values
 

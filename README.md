@@ -18,6 +18,7 @@ My depth is 15 years of production backend work, mostly Ruby on Rails. At GitHub
 
 | Project | What it does | Built in |
 |---|---|---|
+| [sbx-orb-provider](https://github.com/fuentesjr/sbx-orb-provider) | Self-hosts the Amp coding agent's cloud workspaces on my Linux box: one microVM per agent, default-deny network, and a daily canary that checks for drift ([walkthrough](https://fuentesjr.github.io/sbx-orb-provider/)) | Shell |
 | [autobots](https://github.com/fuentesjr/autobots) · [agenticons](https://github.com/fuentesjr/agenticons) | Named subagent rosters for Claude Code and Codex, each role pinned to a model tier | TypeScript, Go |
 | [grok-plugin-cc](https://github.com/fuentesjr/grok-plugin-cc) | Claude Code plugin that hands investigation, fixes, and review to Grok Build | JavaScript |
 
